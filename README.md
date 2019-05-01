@@ -5,7 +5,7 @@ Salad Interview Project for React developers
 Create a React application that retrieves and displays the list of GPUs supported by Salad.
 
 ## UX/UI
-Please use the wireframe here for the layout. Match the style (font, color, padding...) to our [website](https://www.salad.io/)
+Please use the wireframe here for the layout. Match the style (font size, color, padding...) to our [website](https://www.salad.io/). Please use the Work Sans font found [here](https://fonts.google.com/specimen/Work+Sans)
 
 <img src="https://cdn.discordapp.com/attachments/456875916480610306/573188778550624256/Dev-task.png" width="300">
 
