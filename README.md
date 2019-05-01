@@ -7,6 +7,8 @@ Create a React application that retrieves and displays the list of GPUs supporte
 ## UX/UI
 Please use the wireframe here for the layout. Match the style (font, color, padding...) to our [website](https://www.salad.io/)
 
+<img src="https://cdn.discordapp.com/attachments/456875916480610306/573188778550624256/Dev-task.png" width="300">
+
 ## Bootstrapping the project
 Up to you, but please use Tyescript. We use and recommend [create-react-app](https://github.com/facebook/create-react-app).
 
